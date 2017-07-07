@@ -1,0 +1,3 @@
+uvloop
+aiohttp
+aioredis==0.3
